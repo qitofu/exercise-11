@@ -3,3 +3,36 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+ html {
+  font-family: Syne, sans-serif;
+  color: rgb(87, 82, 75);
+  background-color: rgb(42, 29, 29);
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+ header {
+   text-align: center;
+   font-family: Ovo, serif;
+ }
+
+h1 {
+font-size: 32px;
+font-weight: 200px;
+letter-spacing: 1.2em;
+margin-bottom: 20px;
+color:rgb(80, 51, 34);
+}
+
+h2 {
+  font-size: 18px;
+  color: rgb(66, 77, 84);
+}
+
+
+
+  
+
+  
+  
