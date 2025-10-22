@@ -12,7 +12,7 @@
   line-height: 1.5em;
 }
 main {
-  margin: 50px;
+  margin: 80px;
 }
  header {
    text-align: center;
@@ -23,13 +23,15 @@ h1 {
 font-size: 32px;
 font-weight: 200px;
 letter-spacing: 1.2px;
-margin-bottom: 20px;
-color:rgb(203,130,86);
+margin-bottom: 10px;
+color:rgb(243,129,59);
 }
 
 h2 {
   font-size: 22px;
   color: rgb(176,203,217);
+  margin-bottom: 20px;
+
 }
 
 p {
