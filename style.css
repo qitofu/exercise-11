@@ -6,8 +6,8 @@
 
  html {
   font-family: Syne, sans-serif;
-  color: rgb(87, 82, 75);
-  background-color: rgb(42, 29, 29);
+  color: rgb(222,211,191);
+  background-color: rgb(108,75,75);
   font-size: 14px;
   line-height: 1.5em;
 }
@@ -22,14 +22,20 @@ font-size: 32px;
 font-weight: 200px;
 letter-spacing: 1.2em;
 margin-bottom: 20px;
-color:rgb(80, 51, 34);
+color:rgb(203,130,86);
 }
 
 h2 {
   font-size: 18px;
-  color: rgb(66, 77, 84);
+  color: rgb(176,203,217);
 }
 
+p {
+  text-align: justify;
+	line-height: 1.5em;
+	margin-bottom: 20px;
+
+}
 
 
   
