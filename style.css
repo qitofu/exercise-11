@@ -11,7 +11,9 @@
   font-size: 14px;
   line-height: 1.5em;
 }
-
+main {
+  margin: 50px;
+}
  header {
    text-align: center;
    font-family: Ovo, serif;
