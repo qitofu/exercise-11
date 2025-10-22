@@ -12,7 +12,7 @@
   line-height: 1.5em;
 }
 main {
-  margin: 80px;
+  margin: 400px;
 }
  header {
    text-align: center;
@@ -43,6 +43,8 @@ p {
 
 .text {
 	column-count:2;
+	column-gap: 30px;
+	column-width: 100px;
 
 }
   
